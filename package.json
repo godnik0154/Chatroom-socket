@@ -1,0 +1,16 @@
+{
+  "name": "package-one2one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
+  }
+}
